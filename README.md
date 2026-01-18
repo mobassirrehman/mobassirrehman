@@ -13,7 +13,7 @@
 
 I'm a passionate **MERN Stack Developer** who transitioned from English Literature to web development. I specialize in building responsive, user-centric web applications with modern technologies. With a methodical approach to problem-solving, I focus on understanding concepts deeply rather than just implementing solutions.
 
-- 🔭 Currently working on **[Care.xyz](https://github.com/mobassirrehman/care.xyz-next.js)** - A Next.js service booking platform for Bangladesh
+- 🔭 Currently working on **[Hat-Bari](https://github.com/mobassirrehman/hat-bari.git)** — a modern online grocery platform delivering fresh vegetables, fruits, and daily essentials across Bangladesh.
 - 🌱 Exploring **Next.js 16+ and NextAuth.js v5**
 - 💼 Over 8 months of professional web development experience
 - 🎓 Honours graduate in English Literature
@@ -84,8 +84,8 @@ A digital library management system with vintage aesthetic, complete CRUD operat
 
 ---
 
-#### 📱 [Care.xyz](https://github.com/mobassirrehman/care.xyz-next.js)
-Service booking platform for babysitting, elderly care, and sick care services in Bangladesh.
+#### 📱 [Hat-Bari](https://github.com/mobassirrehman/hat-bari.git)  
+Online grocery platform built with Next.js for fresh produce and daily essentials from local markets in Bangladesh.
 
 **Tech:** Next.js 16+, MongoDB Atlas, NextAuth.js v5, TailwindCSS
 
