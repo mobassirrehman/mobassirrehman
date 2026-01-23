@@ -54,17 +54,30 @@ I'm a passionate **MERN Stack Developer** who transitioned from English Literatu
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobassirrehman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/mobassirrehman">
+    <img src="https://github-readme-stats.vercel.app/api?username=mobassirrehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mobassirrehman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobassirrehman&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobassirrehman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobassirrehman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/mobassirrehman">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobassirrehman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/mobassirrehman">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mobassirrehman&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
+</div>
 
 ---
 
