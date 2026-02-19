@@ -14,7 +14,7 @@
 I'm a passionate **MERN Stack Developer** who transitioned from English Literature to web development. I specialize in building responsive, user-centric web applications with modern technologies. With a methodical approach to problem-solving, I focus on understanding concepts deeply rather than just implementing solutions.
 
 - 🔭 Currently working on **[Hat-Bari](https://github.com/mobassirrehman/hat-bari.git)** — a modern online grocery platform delivering fresh vegetables, fruits, and daily essentials across Bangladesh.
-- 🌱 Exploring **Next.js 16+ and NextAuth.js v5**
+- 🌱 Exploring **Next.js and NextAuth.js**
 - 💼 Over 10+ months of personal web development experience
 - 🎓 Honours graduate in English Literature
 - 💡 I deconstruct complex problems and solve them systematically
