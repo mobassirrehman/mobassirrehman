@@ -15,7 +15,7 @@ I'm a passionate **MERN Stack Developer** who transitioned from English Literatu
 
 - 🔭 Currently working on **[Hat-Bari](https://github.com/mobassirrehman/hat-bari.git)** — a modern online grocery platform delivering fresh vegetables, fruits, and daily essentials across Bangladesh.
 - 🌱 Exploring **Next.js 16+ and NextAuth.js v5**
-- 💼 Over 8 months of professional web development experience
+- 💼 Over 10+ months of personal web development experience
 - 🎓 Honours graduate in English Literature
 - 💡 I deconstruct complex problems and solve them systematically
 - ⚡ Fun fact: I can work under extreme pressure and maintain deep focus on challenging tasks
@@ -93,14 +93,14 @@ A comprehensive contest management platform with role-based authentication, Stri
 #### 📚 [The Book Haven](https://github.com/mobassirrehman/The-Book-Haven-Client)
 A digital library management system with vintage aesthetic, complete CRUD operations, and personal library management.
 
-**Tech:** React 19, Firebase, MongoDB, TailwindCSS, DaisyUI
+**Tech:** React, Firebase, MongoDB, TailwindCSS, DaisyUI
 
 ---
 
 #### 📱 [Hat-Bari](https://github.com/mobassirrehman/hat-bari.git)  
 Online grocery platform built with Next.js for fresh produce and daily essentials from local markets in Bangladesh.
 
-**Tech:** Next.js 16+, MongoDB Atlas, NextAuth.js v5, TailwindCSS
+**Tech:** Next.js, MongoDB Atlas, NextAuth.js, TailwindCSS
 
 ---
 
